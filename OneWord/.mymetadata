@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="OneWord"
+  id="myeclipse.1448278097437"
+  context-root="/OneWrod"
+  j2ee-spec="6.0"
+  archive="OneWord.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

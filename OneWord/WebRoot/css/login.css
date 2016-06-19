@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+.loginPage{ 
+	width: 350px;
+	height: 400px;
+	text-align: center;
+	overflow: hidden;
+	margin: auto;
+	position: absolute;
+	top:0;
+	left:0;
+	right: 0;
+	bottom: 0;
+	
+}
